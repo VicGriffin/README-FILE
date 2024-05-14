@@ -1,3 +1,20 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents** 
+
+- [CSS BOX MODEL DOCUMENTATION](#css-box-model-documentation)
+  - [CSS sytanx](#css-sytanx)
+  - [CSS selectors](#css-selectors)
+    - [ways to declare css file](#ways-to-declare-css-file)
+    - [Components of the CSS Box Model](#components-of-the-css-box-model)
+    - [Box model diagram](#box-model-diagram)
+    - [Example](#example)
+  - [Width and Height of an Element](#width-and-height-of-an-element)
+    - [Example](#example-1)
+    - [Conclusion](#conclusion)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # CSS BOX MODEL DOCUMENTATION
 
 ## CSS sytanx
